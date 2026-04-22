@@ -6,14 +6,17 @@
   [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amna.zubairgill@gmail.com)
 </div>
 
-<h1 align="left">I'm Amna Zubair</h1>
-<h3 align="left">Data Science Undergraduate | ETL & Analytics Enthusiast | Building Data Systems That Matter</h3>
+<h1 align="center">I'm Amna Zubair</h1>
+<h3 align="center">Data Science Undergraduate | ETL & Analytics Enthusiast | Building Data Systems That Matter</h3>
 
 <p align="left">
 I'm a Data Science student at FAST NUCES, Islamabad with a passion for transforming raw data into actionable intelligence. I thrive on designing ETL pipelines, building interactive dashboards, and applying statistical models to solve real-world problems. Currently expanding into NLP, deep learning, and advanced data mining — always curious, always building.
 </p>
 
-<h2 align="left">Tech Stack</h2>
+
+## Tech Stack & Tools
+
+`Python` · `R` · `SQL` · `C/C++` . `EDA` · `Regression` · `Classification` · `Clustering` · `ARIMA` · `LASSO` · `Ridge` · `Elastic Net` . `MySQL` · `PostgreSQL` · `Supabase` · `Star Schema` · `ETL Pipelines` · `HYBRIDJOIN` . `Tableau` · `D3.js` . `linus` · `Google Data Studio` . `Jupyter` · `VS Code` · `Git/GitHub` · `.NET/C#`
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -36,7 +39,7 @@ I'm a Data Science student at FAST NUCES, Islamabad with a passion for transform
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" height="40" alt="tableau logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="d3js logo" />
   <img width="12" />
@@ -54,20 +57,3 @@ I'm a Data Science student at FAST NUCES, Islamabad with a passion for transform
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" />
 </div>
-
-## Tech Stack & Tools
-
-**Languages & Core:**  
-`Python` · `R` · `SQL` · `C/C++`
-
-**Data Analysis & Modeling:**  
-`EDA` · `Regression` · `Classification` · `Clustering` · `ARIMA` · `LASSO` · `Ridge` · `Elastic Net`
-
-**Databases & ETL:**  
-`MySQL` · `PostgreSQL` · `Supabase` · `Star Schema` · `ETL Pipelines` · `HYBRIDJOIN`
-
-**Visualization & BI:**  
-`Tableau` · `D3.js` · `Google Data Studio` · `PowerPoint`
-
-**Tools & Platforms:**  
-`Jupyter` · `VS Code` · `Git/GitHub` · `.NET/C#`
